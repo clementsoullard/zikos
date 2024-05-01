@@ -191,4 +191,5 @@ function wpf_entries_table( $atts ) {
   
     return $output;
 }
+
 add_shortcode( 'wpforms_entries_table', 'wpf_entries_table' );
